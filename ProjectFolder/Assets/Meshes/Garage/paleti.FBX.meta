@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 4e98ed72d9918bb4d83d2374328ac4be
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AI20_011_167
+    100002: AI20_011_168
+    100004: AI20_011_169
+    100006: AI20_011_170
+    100008: AI20_011_171
+    100010: AI20_011_172
+    100012: AI20_011_173
+    100014: AI20_011_174
+    100016: AI20_011_175
+    100018: AI20_011_176
+    100020: AI20_011_177
+    100022: AI20_011_178
+    100024: AI20_011_179
+    100026: AI20_011_180
+    100028: AI20_011_181
+    100030: AI20_011_186
+    100032: AI20_011_399
+    100034: //RootNode
+    400000: AI20_011_167
+    400002: AI20_011_168
+    400004: AI20_011_169
+    400006: AI20_011_170
+    400008: AI20_011_171
+    400010: AI20_011_172
+    400012: AI20_011_173
+    400014: AI20_011_174
+    400016: AI20_011_175
+    400018: AI20_011_176
+    400020: AI20_011_177
+    400022: AI20_011_178
+    400024: AI20_011_179
+    400026: AI20_011_180
+    400028: AI20_011_181
+    400030: AI20_011_186
+    400032: AI20_011_399
+    400034: //RootNode
+    2300000: AI20_011_167
+    2300002: AI20_011_168
+    2300004: AI20_011_169
+    2300006: AI20_011_170
+    2300008: AI20_011_171
+    2300010: AI20_011_172
+    2300012: AI20_011_173
+    2300014: AI20_011_174
+    2300016: AI20_011_175
+    2300018: AI20_011_176
+    2300020: AI20_011_177
+    2300022: AI20_011_178
+    2300024: AI20_011_179
+    2300026: AI20_011_180
+    2300028: AI20_011_181
+    2300030: AI20_011_186
+    2300032: AI20_011_399
+    3300000: AI20_011_167
+    3300002: AI20_011_168
+    3300004: AI20_011_169
+    3300006: AI20_011_170
+    3300008: AI20_011_171
+    3300010: AI20_011_172
+    3300012: AI20_011_173
+    3300014: AI20_011_174
+    3300016: AI20_011_175
+    3300018: AI20_011_176
+    3300020: AI20_011_177
+    3300022: AI20_011_178
+    3300024: AI20_011_179
+    3300026: AI20_011_180
+    3300028: AI20_011_181
+    3300030: AI20_011_186
+    3300032: AI20_011_399
+    4300000: AI20_011_167
+    4300002: AI20_011_168
+    4300004: AI20_011_169
+    4300006: AI20_011_170
+    4300008: AI20_011_171
+    4300010: AI20_011_172
+    4300012: AI20_011_173
+    4300014: AI20_011_174
+    4300016: AI20_011_175
+    4300018: AI20_011_176
+    4300020: AI20_011_177
+    4300022: AI20_011_178
+    4300024: AI20_011_179
+    4300026: AI20_011_180
+    4300028: AI20_011_181
+    4300030: AI20_011_186
+    4300032: AI20_011_399
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

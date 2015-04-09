@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mgto_diff
+  m_Shader: {fileID: 4800000, guid: 1c5dc7fcf34357e4ba17a658725c3bd2, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 3974c8b088852904dbe75b598267fe97, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: e8eb0aa8757916a44a132211dd6962b8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: b4806c8ed7cc4844b9ce7232d37a59f1, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SparkleTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a394329b7519cd4783d283cadb5e998, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RefMaskTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 47808861c160bdf4cbbc91c967dade95, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Reflection
+        second: .164179102
+      data:
+        first:
+          name: _Shininess
+        second: 10.000001
+      data:
+        first:
+          name: _Gloss
+        second: 2.38805962
+      data:
+        first:
+          name: _FrezPow
+        second: .817164242
+      data:
+        first:
+          name: _FrezFalloff
+        second: 3.10447788
+      data:
+        first:
+          name: _FlakeScale
+        second: 1
+      data:
+        first:
+          name: _FlakePower
+        second: .313432842
+      data:
+        first:
+          name: _OuterFlakePower
+        second: 5.25373125
+      data:
+        first:
+          name: _duoPower
+        second: 2.85074615
+      data:
+        first:
+          name: _InterFlakePower
+        second: 128
+      data:
+        first:
+          name: _SHLightingScale
+        second: 1
+      data:
+        first:
+          name: _hdrInt
+        second: .701492548
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .0162062682, g: .33787629, b: .723880589, a: .513725519}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _paintColor2
+        second: {r: 0, g: 1, b: .622377872, a: 1}
+      data:
+        first:
+          name: _Color2
+        second: {r: 1, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _flakeLayerColor
+        second: {r: 1, g: 1, b: 1, a: 1}
